@@ -1,0 +1,85 @@
+body
+{
+	background-color: rgb(43, 42, 51);
+	margin: 0;
+}
+.imagem
+{
+	width: 48px;
+}
+#principal
+{
+	width: 1000px;
+	margin: 295px auto 0px;
+}
+#logo1
+{
+	width: 82px;
+}
+#logo2
+{
+	width: 134px;
+}
+input
+{
+	display: block;
+	width: 720px;
+	margin:0 auto 0;
+	height: 52px;
+	background-color: rgb(66, 65, 77);
+	border: 0px;
+}
+#logo
+{
+	width: 220px;
+	margin: 10px auto;
+}
+.sites
+{
+	float: left;
+	margin: 60px 10px 10px 34px;
+	border: 15px solid rgb(66, 65, 77);
+	border-radius: 10px;
+	background: rgb(66, 65, 77);
+}
+.clear
+{
+	clear: both;
+}
+.barra
+{
+	float: left;
+}
+#barra_esquerda
+{
+	width: 32px;
+	border: 10px solid rgb(66, 65, 77);
+	background-color: rgb(66, 65, 77);
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 15px;
+}
+#barra_direita
+{
+	width: 15px;
+	height: 54px;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+	background-color: rgb(66, 65, 77);;
+}
+#barra{
+	width: 791px;
+	margin: 40px auto 0px;
+	position: relative;
+}
+img.barra
+{
+	width: 34px;
+}
+span
+{
+	position: absolute;
+	font-size: 19px;
+	right: 375px;
+	top: 15px;
+	color: rgb(166, 165, 173);
+}
